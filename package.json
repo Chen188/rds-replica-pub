@@ -11,7 +11,7 @@
     "koa-trie-router": "^2.1.6",
     "koa-views": "^6.2.0",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.8.6",
+    "sequelize": "^5.15.1",
     "twig": "^1.13.3"
   }
 }
